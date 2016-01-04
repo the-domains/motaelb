@@ -1,0 +1,28 @@
+name: motaelb
+favicon: null
+layout_spectrum: 0.5837604410480708
+typography_spectrum: 0.19914485490880907
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09286693739704788
+  lightness: 0.9775035881903023
+  saturation: 0.7607101565226912
+  rhythmicContrast: 0.47806879761628807
+purpose: []
