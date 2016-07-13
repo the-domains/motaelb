@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[motaelb]]></title>
         <description><![CDATA[motaelb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/motaelb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 09:25:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 09:26:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/motaelb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8 stats that show why beach volleyball is the best]]></title>
+            <description><![CDATA[<article><h1>8 stats that show why beach volleyball is the best</h1><h2>Beach volleyball players would dwarf most of the NBA</h2><p>It’s fast, it’s thrilling, it’s tough and here’s why it could be your new favourite sport.</p></article>]]></description>
+            <link>https://thegrid.ai/motaelb/8-stats-that-show-why-beach-volleyball-is-the-best/index.html</link>
+            <guid isPermaLink="false">223d3e4c-5483-4156-94f5-d24fe8816395</guid>
+            <pubDate>Wed, 13 Jul 2016 09:25:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[April Ross: Insider Her Training Routine]]></title>
             <description><![CDATA[<article><h1>April Ross: Insider Her Training Routine</h1><p>If you’ve ever seen an Olympic beach volleyball player, it’s probably pretty clear that they work hard at getting fit — you just might not realize how hard. For April Ross,silver medalistat the 2012 Olympic Games in London, and a contender for the gold in the 2016 Summer Olympics in Rio, it’s all aboutbuilding strength.</p></article>]]></description>
-            <link>undefinedapril-ross-insider-her-training-routine/index.html</link>
+            <link>https://thegrid.ai/motaelb/april-ross-insider-her-training-routine/index.html</link>
             <guid isPermaLink="false">eb05f08a-fcea-467b-bfcf-4bd95afaa05e</guid>
             <pubDate>Wed, 13 Jul 2016 09:25:40 GMT</pubDate>
         </item>
